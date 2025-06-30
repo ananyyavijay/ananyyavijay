@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **ananyavijay05@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1yo9lpAJmqI0dsXzfDfopWy7y3CFBipeC/view?usp=drivesdk](https://drive.google.com/file/d/1yo9lpAJmqI0dsXzfDfopWy7y3CFBipeC/view?usp=drivesdk)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1yo9lpAJmqI0dsXzfDfopWy7y3CFBipeC/view?usp=drivesdk](https://drive.google.com/file/d/1mH62swvD81CiamKAGhkrFpXeLLd8X6e8/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
