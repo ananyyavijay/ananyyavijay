@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ananya Vijay</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **Back-end, Python**
+- 🌱 I’m currently learning **machine learning and Cloud**
 
 - 📫 How to reach me **ananyavijay05@gmail.com**
 
