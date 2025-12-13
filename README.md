@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **ananyavijay05@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1FGlN1u9sNPiUquEEbB62jjUn3NxD9Mjx/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1v3MoJiGu4vo5YI_n7-aHQgbdLPPJQucI/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
