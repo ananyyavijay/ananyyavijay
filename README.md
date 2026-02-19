@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ananya Vijay</h1>
 <h3 align="center">A passionate developer from India</h3>
 
-- 🌱 I’m currently learning **machine learning and Cloud**
+- 🌱 I’m currently learning **deep learning concepts and Cloud**
 
 - 📫 How to reach me **ananyavijay05@gmail.com**
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1v3MoJiGu4vo5YI_n7-aHQgbdLPPJQucI/view?usp=drive_link)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/10vHFjnEQEOtPh3mCj4hh5IJI-MdoS_YF/view?usp=drive_link)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
